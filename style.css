@@ -25,3 +25,18 @@
     left: 20%;
     top: 750px;
 }
+#biocss {
+   position: relative;
+    left: 20%;
+    top: 750px;
+}
+#bio-name {
+   position: relative;
+    left: 320px;
+    top: -360px;
+}
+#bio-text {
+   position: relative;
+    left: 160px;
+    top: -360px;
+}
