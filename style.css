@@ -11,6 +11,10 @@
   font-size 2em;
   line-height: 200%;
 }
+#final {
+ position: absolute;
+    left: 20%;
+}
 #sketch1 {
    position: absolute;
     left: 20%;
